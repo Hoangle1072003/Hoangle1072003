@@ -1,18 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on: Java Backend projects with Spring Boot, building scalable APIs, and exploring microservices architecture.<br><br>👯 I’m looking to collaborate on: Open-source projects related to Java, Spring Boot, or backend systems.<br><br>🤝 I’m looking for help with: Improving system design skills and best practices in distributed systems.<br><br>🌱 I’m currently learning: AWS Cloud, Kafka, gRPC, and Elasticsearch.<br><br>💬 Ask me about: Java, Spring Boot, Redis, REST APIs, System Design.<br><br>⚡ Fun fact: I like debugging complex issues more than playing puzzle games. Sometimes both feel the same!<br>
+<!--
+  Profile README for Lê Văn Hoàng
+  Auto-generated with professional layout
+-->
 
+<h1 align="center">Hi 👋, I'm <strong>Lê Văn Hoàng</strong></h1>
+<p align="center">
+  <em>Final-year Software Engineering Student | Backend Enthusiast | Open-source Contributor</em>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%AA-v%C4%83n-ho%C3%A0ng-68a053374/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:levanhoang.tech.official@gmail.com) 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/Hoangle1072003?v=4" width="150" alt="Hoàng's Avatar" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hoangle1072003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hoangle1072003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangle1072003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💫 About Me
+
+🔭 I’m currently working on **scalable microservice architectures** with **Java Spring Boot** and **AWS**.<br>
+👯 I collaborate on open-source backend libraries and **Spring Boot starters**.<br>
+🤝 I’m looking for mentorship in **system design** and **distributed tracing**.<br>
+🌱 I’m learning **Kafka**, **gRPC**, **Elasticsearch**, and **Kubernetes**.<br>
+💬 Ask me about **Java**, **Spring Boot**, **REST APIs**, **Redis**, **Docker**, and **CI/CD**.<br>
+⚡ Fun fact: *I geek out on debugging production issues more than solving puzzles!*<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hoangle1072003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Experience & Projects Timeline
+
+| Period               | Role / Project                                                 | Technologies                         |
+| -------------------- | -------------------------------------------------------------- | ------------------------------------ |
+| **Feb 2025 – Present**| Thesis Management System (Master/PhD) @ IUH (Team of 2)        | Spring Boot (Reactive), gRPC, Kafka, MongoDB, Next.js, Ant Design |
+| **Aug 2024 – Jan 2025** | E-commerce Clothing Store (Personal)                          | Spring MVC, JSP, JSTL, JPA, Redis, Docker, MinIO, AWS S3           |
+| **May 2024 – Jul 2024** | REST API Service for User Management (Jakarta REST + CRUD)    | Jakarta EE, MySQL, Docker Compose                       |
+| **Jan 2024 – Apr 2024** | React Native Mobile App – Category/Product Browser            | React Native, Redux Toolkit, JSON Seeds                  |
+| **Oct 2023 – Dec 2023** | Express.js API Server with MongoDB and CI/CD pipelines        | Node.js, Express, MongoDB, GitLab CI, Docker              |
+
+> See detailed portfolio: [Projects & Repos](https://github.com/Hoangle1072003)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:levanhoang.tech.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Hoangle1072003"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/l%C3%AA-v%C4%83n-ho%C3%A0ng-68a053374/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Languages & Frameworks -->
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-009999.svg?style=for-the-badge&logo=EclipseVertx&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+
+  <!-- Cloud & DevOps -->
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+  <!-- Data & Messaging -->
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoangle1072003&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangle1072003&theme=dark" alt="GitHub streak" />
+</p>
