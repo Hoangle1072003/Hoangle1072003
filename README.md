@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hoangle1072003/Hoangle1072003/refs/heads/main/2023-08-21.jpg" width="150" alt="Hoàng's Avatar" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Hoangle1072003/Hoangle1072003/refs/heads/main/2023-08-21.jpg" width="150" height="150" style="border-radius: 50%;" alt="Hoàng's Avatar" />
 </p>
 
 ## 💫 About Me
