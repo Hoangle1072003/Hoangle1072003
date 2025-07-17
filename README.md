@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Lê Văn Hoàng</strong></h1>
 <p align="center">
-  <em>Final-year Software Engineering Student | Backend Enthusiast | Open-source Contributor</em>
+  <em>Final-year Software Engineering Student | Backend Enthusiast</em>
 </p>
 
 <p align="center">
@@ -23,56 +23,7 @@
 
 ---
 
-## 🏆 Experience & Projects
 
-- 🗓️ **Feb 2025 – Present**  
-  **Thesis Management System (Master/PhD) @ IUH** (Team of 2)  
-  _Role:_ Full-stack Developer, primary backend focus  
-  _Technologies:_ Spring Boot Reactive, gRPC, RESTful API, MinIO, MongoDB, Next.js, Ant Design  
-  _Highlights:_ Managed thesis lifecycle microservices, designed secure APIs, implemented auth & frontend modules.
-
-- 🗓️ **Feb 2025 – May 2025**  
-  **E-Commerce Microservices Platform** (Team of 2)  
-  _Role:_ Lead Developer (Full-stack)  
-  _Technologies:_ Spring Boot, Next.js, Ant Design, Kafka, Qdrant, MongoDB, MySQL, Redis, Elasticsearch, Docker Compose  
-  _Highlights:_ Architected core services (user, product, order, cart, payments), built recommendation engine with vector DB, implemented centralized logging & analytics.
-
-- 🗓️ **Aug 2024 – Jan 2025**  
-  **E-commerce Clothing Store** (Personal Project)  
-  _Role:_ Full-stack Developer  
-  _Technologies:_ Spring MVC, JSP, JSTL, JPA, Redis, Docker, MinIO, AWS S3  
-  _Highlights:_ Developed product management UI, integrated Redis caching, implemented file storage with MinIO & S3.
-
-- 🗓️ **May 2024 – Jul 2024**  
-  **User Management REST API Service**  
-  _Role:_ Backend Developer  
-  _Technologies:_ Jakarta EE, MySQL, Docker Compose  
-  _Highlights:_ Designed CRUD endpoints, containerized services for easy deployment.
-
-- 🗓️ **Jan 2024 – Apr 2024**  
-  **React Native Mobile App – Category/Product Browser**  
-  _Role:_ Frontend Developer  
-  _Technologies:_ React Native, Redux Toolkit  
-  _Highlights:_ Seeded data-driven UI, implemented state management per category.
-
-- 🗓️ **Oct 2023 – Dec 2023**  
-  **Express.js API Server with CI/CD Pipelines**  
-  _Role:_ Backend Developer  
-  _Technologies:_ Node.js, Express, MongoDB, GitLab CI, Docker  
-  _Highlights:_ Built RESTful APIs, configured GitLab CI/CD for automated testing and deployment.
-
-> For full project details and links, visit my [Projects & Repos](https://github.com/Hoangle1072003)
-
--------------------- | -------------------------------------------------------------- | ------------------------------------ |
-| **Feb 2025 – Present**| Thesis Management System (Master/PhD) @ IUH (Team of 2)        | Spring Boot (Reactive), gRPC, Kafka, MongoDB, Next.js, Ant Design |
-| **Aug 2024 – Jan 2025** | E-commerce Clothing Store (Personal)                          | Spring MVC, JSP, JSTL, JPA, Redis, Docker, MinIO, AWS S3           |
-| **May 2024 – Jul 2024** | REST API Service for User Management (Jakarta REST + CRUD)    | Jakarta EE, MySQL, Docker Compose                       |
-| **Jan 2024 – Apr 2024** | React Native Mobile App – Category/Product Browser            | React Native, Redux Toolkit, JSON Seeds                  |
-| **Oct 2023 – Dec 2023** | Express.js API Server with MongoDB and CI/CD pipelines        | Node.js, Express, MongoDB, GitLab CI, Docker              |
-
-> See detailed portfolio: [Projects & Repos](https://github.com/Hoangle1072003)
-
----
 
 ## 🌐 Connect with Me
 
@@ -84,29 +35,9 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<p align="center">
-  <!-- Languages & Frameworks -->
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-009999.svg?style=for-the-badge&logo=EclipseVertx&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-
-  <!-- Cloud & DevOps -->
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-  <!-- Data & Messaging -->
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-</p>
 
 ---
 
