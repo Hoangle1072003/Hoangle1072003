@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Lê Văn Hoàng</strong></h1>
 <p align="center">
-  <em>Final-year Software Engineering Student | Backend Enthusiast | Open-source Contributor</em>
+  <em>Final-year Software Engineering Student | Backend Enthusiast</em>
 </p>
 
 <p align="center">
@@ -23,10 +23,31 @@
 
 ---
 
-## 🏆 Experience & Projects Timeline
+## 🏆 Experience & Projects
 
-| Period               | Role / Project                                                 | Technologies                         |
-| -------------------- | -------------------------------------------------------------- | ------------------------------------ |
+- 🗓️ **Feb 2025 – Present**  
+  **Thesis Management System (Master/PhD) @ IUH** (Team of 2)  
+  _Technologies:_ Spring Boot Reactive, gRPC, Kafka, MongoDB, Next.js, Ant Design
+
+- 🗓️ **Aug 2024 – Jan 2025**  
+  **E-commerce Clothing Store (Personal Project)**  
+  _Technologies:_ Spring MVC, JSP, JSTL, JPA, Redis, Docker, MinIO, AWS S3
+
+- 🗓️ **May 2024 – Jul 2024**  
+  **User Management REST API Service**  
+  _Technologies:_ Jakarta EE, MySQL, Docker Compose
+
+- 🗓️ **Jan 2024 – Apr 2024**  
+  **React Native Mobile App – Category/Product Browser**  
+  _Technologies:_ React Native, Redux Toolkit, JSON Seeds
+
+- 🗓️ **Oct 2023 – Dec 2023**  
+  **Express.js API Server with CI/CD Pipelines**  
+  _Technologies:_ Node.js, Express, MongoDB, GitLab CI, Docker
+
+> For detailed portfolios, visit [Projects & Repos](https://github.com/Hoangle1072003)
+
+-------------------- | -------------------------------------------------------------- | ------------------------------------ |
 | **Feb 2025 – Present**| Thesis Management System (Master/PhD) @ IUH (Team of 2)        | Spring Boot (Reactive), gRPC, Kafka, MongoDB, Next.js, Ant Design |
 | **Aug 2024 – Jan 2025** | E-commerce Clothing Store (Personal)                          | Spring MVC, JSP, JSTL, JPA, Redis, Docker, MinIO, AWS S3           |
 | **May 2024 – Jul 2024** | REST API Service for User Management (Jakarta REST + CRUD)    | Jakarta EE, MySQL, Docker Compose                       |
