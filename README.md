@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hoangle1072003/Hoangle1072003/refs/heads/main/2023-08-21.jpg" width="150" alt="Hoàng's Avatar" />
+  <img src="https://raw.githubusercontent.com/Hoangle1072003/Hoangle1072003/refs/heads/main/2023-08-21.jpg" width="150" alt="Hoàng's Avatar" style="border-radius: 50%;" />
 </p>
 
 ## 💫 About Me
@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:levanhoang.tech.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Hoangle1072003"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/l%C3%AA-v%C4%83n-ho%C3%A0ng-68a053374/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Hoangle1072003&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangle1072003&theme=dark" alt="GitHub streak" />
 </p>
